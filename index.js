@@ -44,6 +44,6 @@ function makeInt (n) {
 
 //parsing with base 10
 
-function makeInt (n) {
-  return (n, 10)
+function makeInt () {
+  return makeInt(n, 10)
 }
