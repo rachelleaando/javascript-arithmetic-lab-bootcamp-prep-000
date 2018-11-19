@@ -53,3 +53,9 @@ function makeInt (n) {
 function preserveDecimal (n) {
   return n
 }
+
+//parsing n as a floating point
+
+function preserveDecimal (n) {
+  return preserveDecimal ('2.222')
+}
