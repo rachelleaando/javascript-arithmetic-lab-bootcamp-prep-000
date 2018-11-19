@@ -62,6 +62,3 @@ function preserveDecimal (n) {
 
 //returns NaN as appropriate
 
-function preserveDecimal (n) {
-  return parseInt ('nonsense!', 10)
-}
