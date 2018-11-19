@@ -44,6 +44,12 @@ function makeInt (n) {
 
 //parsing with base 10
 
-function makeInt(n) {
+function makeInt (n) {
   return parseInt (n, 10);
+}
+
+//parsing n as a floating point
+
+function preserveDecimal (n) {
+  return n
 }
