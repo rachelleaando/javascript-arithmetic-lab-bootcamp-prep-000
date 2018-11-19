@@ -62,3 +62,6 @@ function preserveDecimal (n) {
 
 //returns NaN as appropriate
 
+function preserveDecimal (n) {
+  return parseFloat ()
+}
