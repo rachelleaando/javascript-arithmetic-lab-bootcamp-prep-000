@@ -59,3 +59,9 @@ function preserveDecimal (n) {
 function preserveDecimal (n) {
   return parseFloat ('2.222')
 }
+
+//returns NaN as appropriate
+
+function preserveDecimal (n) {
+  
+}
